@@ -1,0 +1,5 @@
+*.swp
+client_secrets.json
+adsense.dat
+admob.dat
+venv/
